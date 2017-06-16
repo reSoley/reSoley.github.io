@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-ruby-sass": "^2.1.1",
+		"gulp-util": "^3.0.8",
+		"gulp-watch": "^4.3.11"
+	}
+}
