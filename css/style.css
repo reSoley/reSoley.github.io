@@ -1,0 +1,20 @@
+html, body {
+  padding: 0;
+  margin: 0; }
+
+#main-panel {
+  display: table;
+  width: 100%; }
+
+.column {
+  position: absolute;
+  width: 50%;
+  height: 100%; }
+
+#left {
+  background-color: #cccccc;
+  left: 0px; }
+
+#right {
+  background-color: #8cb8ff;
+  right: 0px; }
